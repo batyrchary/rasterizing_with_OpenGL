@@ -1,12 +1,12 @@
 # Rasterizing with OpenGL
 
 
-OpenGL program to render a given scene and fly through the scene interactively by processing keyboard input (i.e. w s d a u j buttons).
+OpenGL program to render a given scene and fly through the scene interactively by processing keyboard input (i.e. **w, s, d, a, u, j** buttons).
 
 
 ### Results
 <p float="left">
-  <img src="./result/result.gif" width="200" />
+  <img src="./result/result.gif" width="500" />
 </p>
 
 ### Run
